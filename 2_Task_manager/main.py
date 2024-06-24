@@ -108,8 +108,8 @@ def main():
                 break
             case _: ## use as default
                 print(f"{RED}INVALID CHOICE!!!{RESET}")
-        print('=='*100)
-        print('=='*100)
+        print('=='*75)
+        print('=='*75)
         
 ## Programs Starts from here
 if __name__ == '__main__':

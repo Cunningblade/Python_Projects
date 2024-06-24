@@ -1,0 +1,2 @@
+1) Add Sound after the video is downloaded.
+2) Show the notification when the downloading Starts and also when it ends.
